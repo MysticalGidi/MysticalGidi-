@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/itzemmywayne" target="blank"><img src="https://img.shields.io/twitter/follow/itzemmywayne?logo=twitter&style=for-the-badge" alt="itzemmywayne" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes Fundamentals,AWS Lambda and Git**
+- 🌱 I’m currently learning **Kubernetes Fundamentals, AWS Lambda and Git**
 
-- 💬 Ask me about **Python | MySql | AWS | Linux,etc.**
+- 💬 Ask me about **Python | MySql | AWS | Linux, etc.**
 
 - 📫 How to reach me **[ezeilo.e.emmanuel@gmail. com]**
 
-- ⚡ Fun fact **I can’t do without music😁**
+- ⚡ Fun fact **I can’t do without music!😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
